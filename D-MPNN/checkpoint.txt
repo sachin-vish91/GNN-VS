@@ -1,2 +1,2 @@
-Please got following link to download the model checkpoint for the best performing cell line (HCT-116).
+Please go to the following link to download the model checkpoint for the best performing cell line (HCT-116).
 https://drive.google.com/file/d/1crZPwg3f34EA8wJkFdOEi7kro9s3llyA/view?usp=sharing
