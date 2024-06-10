@@ -20,6 +20,6 @@ The model checkpoint for the best performing cell line is available for download
 
 ### 3. Example Scripts:
 
-`train.sh`: An example SLURM script for training the model.
+`train.sh`: This is an example SLURM script for training the D-MPNN model. To use this script, set up a JSON file based on the best set of hyperparameters provided in the examples. Additionally, specify the path to the input file, the column name for the target variable, and the output directory.
 
-`prediction.sh`: An example SLURM script for making predictions using the trained model.
+`prediction.sh`: his example SLURM script is for making predictions using the trained D-MPNN model. For predictions on random and dissimilar molecules, provide the input file, the checkpoint path of the trained model, and the output directory.
