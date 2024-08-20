@@ -1,7 +1,9 @@
-# **Graph neural networks best guide phenotypic virtual screening on cancer cell lines**
+# **Graph neural networks are promising for phenotypic virtual screening on cancer cell lines**
+
+![image](https://github.com/user-attachments/assets/b5e0d4c6-e842-434d-8be2-0ce5b3c4300c)
 
 
-
+# Steps to Reproduce the Best Model Results
 ### Chemprop Installation and D-MPNN Model Setup
 
 To run the Directed Message Passing Neural Network (D-MPNN) model, follow the detailed installation instructions provided in the Chemprop GitHub repository (https://github.com/chemprop/chemprop). Carefully adhere to these instructions to ensure a successful setup.
